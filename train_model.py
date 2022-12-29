@@ -311,7 +311,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--checkpoint",
-        default="check_default",
+        default="./",
         type=str,
         help="where to save the network",
     )
