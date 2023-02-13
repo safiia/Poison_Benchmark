@@ -1,4 +1,0 @@
-model path,model,normalize,augment,training_acc,natural_acc
-./pretrained_models/ResNet18_CIFAR10_adv.pth,ResNet18,True,False,24.908,25.12
-./pretrained_models/ResNet18_CIFAR10_adv.pth,ResNet18,True,False,24.908,25.12
-./pretrained_models/MobileNetV2_CIFAR100.pth,mobilenet_v2,True,False,99.95,72.16
