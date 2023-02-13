@@ -1,0 +1,145 @@
+20220830 12:30:59 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100_A.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100_A.pth'], tol=1e-06)
+20220830 12:31:06 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:31:06 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:31:06 target_label: 4
+20220830 12:31:06 target_index: 9139
+20220830 12:36:32 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100_A.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100_A.pth'], tol=1e-06)
+20220830 12:36:37 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:36:37 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:36:37 target_label: 4
+20220830 12:36:37 target_index: 9139
+20220830 12:41:25 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100_A.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100_A.pth'], tol=1e-06)
+20220830 12:41:29 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:41:29 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:41:29 target_label: 4
+20220830 12:41:29 target_index: 9139
+20220830 12:43:24 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:43:30 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:43:30 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:43:30 target_label: 4
+20220830 12:43:30 target_index: 9139
+20220830 12:47:43 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:47:47 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:47:47 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:47:47 target_label: 4
+20220830 12:47:47 target_index: 9139
+20220830 12:54:09 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:54:13 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:54:13 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:54:13 target_label: 4
+20220830 12:54:13 target_index: 9139
+20220830 12:55:37 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:55:41 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:55:41 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:55:41 target_label: 4
+20220830 12:55:41 target_index: 9139
+20220830 12:57:51 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:57:55 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:57:55 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:57:55 target_label: 4
+20220830 12:57:55 target_index: 9139
+20220830 12:58:18 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:58:22 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:58:22 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:58:22 target_label: 4
+20220830 12:58:22 target_index: 9139
+20220830 12:59:00 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 12:59:04 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 12:59:04 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 12:59:04 target_label: 4
+20220830 12:59:04 target_index: 9139
+20220830 13:00:01 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220830 13:00:05 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220830 13:00:05 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220830 13:00:05 target_label: 4
+20220830 13:00:05 target_index: 9139
+20220831 03:13:53 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 03:13:55 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 03:13:55 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 03:13:55 target_label: 4
+20220831 03:13:55 target_index: 9139
+20220831 03:17:14 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 03:17:16 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 03:17:16 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 03:17:16 target_label: 4
+20220831 03:17:16 target_index: 9139
+20220831 03:18:13 perturbation norms: [0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294122993946075, 0.035294145345687866, 0.035294122993946075, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.03529411554336548, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294122993946075, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866]
+20220831 03:18:13 poisons saved.
+20220831 03:27:23 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 03:27:25 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 03:27:25 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 03:27:25 target_label: 4
+20220831 03:27:25 target_index: 9139
+20220831 03:28:23 perturbation norms: [0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294122993946075, 0.035294122993946075, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.03529411926865578, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866]
+20220831 03:28:23 poisons saved.
+20220831 13:14:12 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 13:14:15 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 13:14:15 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 13:14:15 target_label: 4
+20220831 13:14:15 target_index: 9139
+20220831 13:15:16 perturbation norms: [0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294122993946075, 0.035294145345687866, 0.03529411926865578, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.03529411554336548, 0.035294175148010254, 0.03529411554336548, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294126719236374, 0.035294145345687866, 0.035294122993946075]
+20220831 13:15:18 poisons saved.
+20220831 13:56:46 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 13:56:49 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 13:56:49 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 13:56:49 target_label: 4
+20220831 13:56:49 target_index: 9139
+20220831 13:57:42 perturbation norms: [0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294122993946075, 0.035294145345687866, 0.035294122993946075, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294122993946075, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866]
+20220831 13:57:42 poisons saved.
+20220831 14:41:07 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 14:41:09 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 14:41:09 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 14:41:09 target_label: 4
+20220831 14:41:09 target_index: 9139
+20220831 14:42:07 perturbation norms: [0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294122993946075, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.03529411926865578, 0.035294145345687866, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866]
+20220831 14:42:07 poisons saved.
+20220831 14:42:56 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 14:42:58 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 14:42:58 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 14:42:58 target_label: 4
+20220831 14:42:58 target_index: 9139
+20220831 14:43:56 perturbation norms: [0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294122993946075, 0.035294122993946075, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294175148010254, 0.03529411926865578, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.035294175148010254, 0.035294175148010254, 0.035294145345687866, 0.035294145345687866, 0.035294145345687866, 0.03529411554336548]
+20220831 14:43:56 poisons saved.
+20220831 15:57:02 Namespace(base_indices=None, crafting_iters=1200, dataset='CIFAR10', end2end=False, epsilon=0.03137254901960784, model=['ResNet18'], model_path=['pretrained_models/ResNet18_CIFAR100.pth'], normalize=True, output='output_default', poison_decay_ites=[], poison_decay_ratio=0.1, poison_lr=0.04, poison_momentum=0.9, poison_opt='adam', poison_setups='./poison_setups/cifar10_transfer_learning.pickle', poisons_path='poison_examples/bp_poisons', pretrain_dataset='CIFAR100', setup_idx=0, target_img_idx=None, target_model='resnet18', target_model_path=['pretrained_models/ResNet18_CIFAR100.pth'], tol=1e-06)
+20220831 15:57:05 base indices: [30330  7829 47673 14780 41050 37670 20223 41973 21599 33265 40426 25213
+ 10643 23609 19553 41843 44560 18517 17023 14400 40330 26767 42366 34367
+ 44798]
+20220831 15:57:05 base labels: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+20220831 15:57:05 target_label: 4
+20220831 15:57:05 target_index: 9139
